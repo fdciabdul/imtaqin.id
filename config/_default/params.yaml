@@ -36,7 +36,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me.'
     license:
       enable: true
       allow_derivatives: false
@@ -48,13 +48,4 @@ locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
-# Site features
-features:
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
-    content_dir: starters/blog/content
-    branch: main
+
