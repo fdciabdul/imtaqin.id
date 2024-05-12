@@ -14,15 +14,15 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
-  analytics:
+    description: 'My personal blog for imtaqin.id'
+    twitter: 'fdciabdul'
+    analytics:
     google_analytics: ''
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
-  verification:
+    verification:
     google: ''
     baidu: ''
 
