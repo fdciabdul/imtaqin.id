@@ -17,7 +17,7 @@ marketing:
     description: 'My personal blog for imtaqin.id'
     twitter: 'fdciabdul'
     analytics:
-    google_analytics: ''
+    google_analytics: 'UA-255507505-1'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
