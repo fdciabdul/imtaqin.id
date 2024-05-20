@@ -2,11 +2,7 @@
 title: Konfigurasi Load Balancing dengan Nginx dan HAProxy di Ubuntu 24
 author: fdciabdul
 type: post
-date: 2024-04-12T13:20:01+00:00
-url: /Konfigurasi-Load-Balancing-dengan-Nginx-dan-HAProxy-di-Ubuntu-24/
-
-hits:
-  - 0
+date: 2024-04-20T13:20:01+00:00
 categories:
   - Tutorial
 
